@@ -1,6 +1,6 @@
 
-<h2 align="left">Hi 👋, Sazzad here</h2>
-<p align="left">Just another coder</p>
+<h2 align="left">Hi there 👋</h2>
+<!-- <p align="left">Just another coder</p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadrume&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadrume" /> </p>
 
