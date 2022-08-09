@@ -24,7 +24,7 @@
 -->
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=sazzadrume&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=sazzadrume&show_icons=true&theme=buefy"/>
 </p>
 
 
@@ -35,6 +35,6 @@
 
 <!-- <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadrume&" alt="sazzadrume" /></p> -->
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazzadrume&theme=dark&hide_border=true)" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazzadrume&theme=buefy&hide_border=true)" /></p>
 
  
