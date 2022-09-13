@@ -22,11 +22,17 @@
 </a>
 
 -->
-
+<!--
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=sazzadrume&show_icons=true&theme=buefy"/>
 </p>
 
+-->
+
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=sazzadrume&show_icons=true&theme=dark"/>
+</p>
 
 
 <!-- <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=sazzadrume&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
