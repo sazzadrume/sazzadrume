@@ -2,10 +2,11 @@
 
 - Mail me - **rumesazzad@gmail.com**
 
+<--
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=sazzadrume&show_icons=true&theme=dark"/>
 </p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazzadrume&theme=dark&hide_border=true)" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazzadrume&theme=dark&hide_border=true)" /></p> -->
 
  
