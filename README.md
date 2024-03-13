@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋</h2>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazzadrume&theme=dark&hide_border=true)" /></p>
+<!-- <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazzadrume&theme=dark&hide_border=true)" /></p> -->
 
 <p>I'm Sazzad, Backend developer from Dhaka, Bangladesh. </p>
 
